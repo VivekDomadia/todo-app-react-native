@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-first-app",
-    "slug": "rn-first-app",
+    "name": "todo-app",
+    "slug": "todo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
